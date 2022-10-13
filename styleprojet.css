@@ -1,0 +1,39 @@
+body
+{
+	background-color: #3E6EDC;
+    text-align: center;
+}
+
+h1
+{
+color:red;
+font-family: verdana;
+font-size: 2em
+}
+div
+{
+border: 2px solid black;
+border-radius: 26px;
+width: 50%;
+margin-left: 25%;
+margin-right: 35%;
+padding: 3%;
+}
+button
+{
+background-color: white;
+text-align: center;
+width: 300px;
+padding: 15px 32px;
+border-radius: 26px;
+margin-top: 3px;
+border: 2px solid black;
+}
+button:hover
+{
+color: red;
+background-color: #3E6EDC;
+border:2px solid black;
+
+
+}
