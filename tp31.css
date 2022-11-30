@@ -1,0 +1,28 @@
+body{
+    background-color: cornflowerblue;
+}
+
+.container
+{
+    text-align: center;
+    padding: 5%;
+    margin: auto;
+    border: 3px solid black;
+    width: 50%;
+    align-items: center;
+}
+
+button
+{
+    background-color: lightskyblue;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+    height: 5em;
+}
+button:hover
+{
+    background-color: dodgerblue;
+    cursor: alias;
+}
+
